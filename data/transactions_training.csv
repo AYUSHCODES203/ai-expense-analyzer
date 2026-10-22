@@ -1,0 +1,82 @@
+
+description,category
+Swiggy dinner order,Food
+Zomato lunch delivery,Food
+College canteen meal,Food
+Pizza restaurant bill,Food
+Coffee shop payment,Food
+Breakfast at cafe,Food
+Burger and fries,Food
+Dinner at restaurant,Food
+Tea and snacks,Food
+Food delivery order,Food
+Uber cab ride,Transport
+Ola taxi payment,Transport
+City bus ticket,Transport
+Monthly bus pass,Transport
+Metro train recharge,Transport
+Auto rickshaw fare,Transport
+Train ticket booking,Transport
+Petrol pump payment,Transport
+Airport cab fare,Transport
+Parking fee payment,Transport
+Amazon clothing order,Shopping
+Bought new shoes,Shopping
+Online shopping purchase,Shopping
+Shopping mall purchase,Shopping
+Purchased a backpack,Shopping
+Bought a new watch,Shopping
+Clothing store bill,Shopping
+Electronics store purchase,Shopping
+Bought headphones online,Shopping
+Department store payment,Shopping
+Movie theater ticket,Entertainment
+Netflix subscription,Entertainment
+Concert ticket booking,Entertainment
+Gaming subscription,Entertainment
+Bowling alley payment,Entertainment
+Music streaming subscription,Entertainment
+Amusement park ticket,Entertainment
+Cinema popcorn and ticket,Entertainment
+Video game purchase,Entertainment
+Comedy show ticket,Entertainment
+Electricity bill payment,Bills
+Monthly internet bill,Bills
+Mobile recharge payment,Bills
+Water bill payment,Bills
+Gas bill payment,Bills
+Phone plan renewal,Bills
+Broadband subscription bill,Bills
+Home maintenance payment,Bills
+Monthly insurance premium,Bills
+Cable television bill,Bills
+College tuition fee,Education
+Bought engineering textbook,Education
+Online programming course,Education
+Exam registration fee,Education
+University semester fee,Education
+Bought notebooks and pens,Education
+Online learning platform fee,Education
+College laboratory fee,Education
+Certification exam payment,Education
+Educational workshop fee,Education
+Pharmacy medicine purchase,Healthcare
+Doctor consultation fee,Healthcare
+Hospital bill payment,Healthcare
+Dental clinic visit,Healthcare
+Blood test laboratory fee,Healthcare
+Eye examination fee,Healthcare
+Prescription medicine bill,Healthcare
+Medical checkup payment,Healthcare
+Physiotherapy session,Healthcare
+Health clinic payment,Healthcare
+Bought vegetables,Groceries
+Milk and bread purchase,Groceries
+Supermarket grocery bill,Groceries
+Rice and lentils purchase,Groceries
+Fruit market purchase,Groceries
+Eggs and dairy purchase,Groceries
+Household grocery shopping,Groceries
+Cooking oil purchase,Groceries
+Fresh vegetable delivery,Groceries
+Weekly grocery basket,Groceries
